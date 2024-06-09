@@ -22,6 +22,7 @@ var afternoonminutes = mutableListOf<String>()
 //Input corrections
 
 var isValid: Boolean = true
+var isValidx: Boolean = true
 
 
 class MainActivity2 : AppCompatActivity() {
